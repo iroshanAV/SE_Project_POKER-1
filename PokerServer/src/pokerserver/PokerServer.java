@@ -68,7 +68,7 @@ public class PokerServer {
         
         ////////////////////////////////Hands///////////////////////////////
         //Original
-        //h.handsofCards(no_of_players, initial, normal);
+//        h.handsofCards(no_of_players, initial, normal);
         
         //initilizing DEMO 
         demo.printCardHands(no_of_players, initial, normal);

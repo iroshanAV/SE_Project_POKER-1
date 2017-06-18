@@ -69,7 +69,7 @@ public class CardLogic {
         
     }
     
-    ArrayList randomizingCards(){
+   public ArrayList randomizingCards(){
         //randomizing arraylist - cards / shuffling
         long seed = System.nanoTime();
         Collections.shuffle(cards,new Random(seed));
